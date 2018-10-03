@@ -1,3 +1,4 @@
+//for bot
 from logger import logger
 import random
 
